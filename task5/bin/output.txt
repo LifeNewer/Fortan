@@ -1,0 +1,2 @@
+ min =   0.999959886     position:           20
+ max =   0.999975741     position:            1
